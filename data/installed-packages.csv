@@ -1,0 +1,135 @@
+Package,LibPath,Version,Priority,Built
+assertthat,C:/Users/Greg/Documents/R/win-library/3.5,0.2.0,NA,3.5.2
+backports,C:/Users/Greg/Documents/R/win-library/3.5,1.1.3,NA,3.5.2
+base64enc,C:/Users/Greg/Documents/R/win-library/3.5,0.1-3,NA,3.5.2
+BH,C:/Users/Greg/Documents/R/win-library/3.5,1.69.0-1,NA,3.5.2
+bindr,C:/Users/Greg/Documents/R/win-library/3.5,0.1.1,NA,3.5.2
+bindrcpp,C:/Users/Greg/Documents/R/win-library/3.5,0.2.2,NA,3.5.2
+broom,C:/Users/Greg/Documents/R/win-library/3.5,0.5.1,NA,3.5.2
+callr,C:/Users/Greg/Documents/R/win-library/3.5,3.1.1,NA,3.5.2
+cellranger,C:/Users/Greg/Documents/R/win-library/3.5,1.1.0,NA,3.5.2
+class,C:/Users/Greg/Documents/R/win-library/3.5,7.3-15,recommended,3.5.2
+cli,C:/Users/Greg/Documents/R/win-library/3.5,1.0.1,NA,3.5.2
+clipr,C:/Users/Greg/Documents/R/win-library/3.5,0.5.0,NA,3.5.2
+clisymbols,C:/Users/Greg/Documents/R/win-library/3.5,1.2.0,NA,3.5.2
+codetools,C:/Users/Greg/Documents/R/win-library/3.5,0.2-16,recommended,3.5.2
+colorspace,C:/Users/Greg/Documents/R/win-library/3.5,1.3-2,NA,3.5.2
+crayon,C:/Users/Greg/Documents/R/win-library/3.5,1.3.4,NA,3.5.2
+crosstalk,C:/Users/Greg/Documents/R/win-library/3.5,1.0.0,NA,3.5.2
+curl,C:/Users/Greg/Documents/R/win-library/3.5,3.2,NA,3.5.2
+DBI,C:/Users/Greg/Documents/R/win-library/3.5,1.0.0,NA,3.5.2
+dbplyr,C:/Users/Greg/Documents/R/win-library/3.5,1.3.0,NA,3.5.2
+desc,C:/Users/Greg/Documents/R/win-library/3.5,1.2.0,NA,3.5.2
+digest,C:/Users/Greg/Documents/R/win-library/3.5,0.6.18,NA,3.5.2
+dplyr,C:/Users/Greg/Documents/R/win-library/3.5,0.7.8,NA,3.5.2
+evaluate,C:/Users/Greg/Documents/R/win-library/3.5,0.12,NA,3.5.2
+fansi,C:/Users/Greg/Documents/R/win-library/3.5,0.4.0,NA,3.5.2
+forcats,C:/Users/Greg/Documents/R/win-library/3.5,0.3.0,NA,3.5.2
+fs,C:/Users/Greg/Documents/R/win-library/3.5,1.2.6,NA,3.5.2
+generics,C:/Users/Greg/Documents/R/win-library/3.5,0.0.2,NA,3.5.2
+ggplot2,C:/Users/Greg/Documents/R/win-library/3.5,3.1.0,NA,3.5.2
+gh,C:/Users/Greg/Documents/R/win-library/3.5,1.0.1,NA,3.5.2
+git2r,C:/Users/Greg/Documents/R/win-library/3.5,0.24.0,NA,3.5.2
+glue,C:/Users/Greg/Documents/R/win-library/3.5,1.3.0,NA,3.5.2
+gridExtra,C:/Users/Greg/Documents/R/win-library/3.5,2.3,NA,3.5.2
+gtable,C:/Users/Greg/Documents/R/win-library/3.5,0.2.0,NA,3.5.2
+haven,C:/Users/Greg/Documents/R/win-library/3.5,2.0.0,NA,3.5.2
+here,C:/Users/Greg/Documents/R/win-library/3.5,0.1,NA,3.5.2
+highr,C:/Users/Greg/Documents/R/win-library/3.5,0.7,NA,3.5.2
+hms,C:/Users/Greg/Documents/R/win-library/3.5,0.4.2,NA,3.5.2
+htmltools,C:/Users/Greg/Documents/R/win-library/3.5,0.3.6,NA,3.5.2
+htmlwidgets,C:/Users/Greg/Documents/R/win-library/3.5,1.3,NA,3.5.2
+httpuv,C:/Users/Greg/Documents/R/win-library/3.5,1.4.5.1,NA,3.5.2
+httr,C:/Users/Greg/Documents/R/win-library/3.5,1.4.0,NA,3.5.2
+ini,C:/Users/Greg/Documents/R/win-library/3.5,0.3.1,NA,3.5.2
+jsonlite,C:/Users/Greg/Documents/R/win-library/3.5,1.6,NA,3.5.2
+knitr,C:/Users/Greg/Documents/R/win-library/3.5,1.21,NA,3.5.2
+labeling,C:/Users/Greg/Documents/R/win-library/3.5,0.3,NA,3.5.2
+later,C:/Users/Greg/Documents/R/win-library/3.5,0.7.5,NA,3.5.2
+lazyeval,C:/Users/Greg/Documents/R/win-library/3.5,0.2.1,NA,3.5.2
+leaflet,C:/Users/Greg/Documents/R/win-library/3.5,2.0.2,NA,3.5.2
+lubridate,C:/Users/Greg/Documents/R/win-library/3.5,1.7.4,NA,3.5.2
+magrittr,C:/Users/Greg/Documents/R/win-library/3.5,1.5,NA,3.5.2
+markdown,C:/Users/Greg/Documents/R/win-library/3.5,0.9,NA,3.5.2
+mime,C:/Users/Greg/Documents/R/win-library/3.5,0.6,NA,3.5.2
+modelr,C:/Users/Greg/Documents/R/win-library/3.5,0.1.2,NA,3.5.2
+munsell,C:/Users/Greg/Documents/R/win-library/3.5,0.5.0,NA,3.5.2
+openssl,C:/Users/Greg/Documents/R/win-library/3.5,1.1,NA,3.5.2
+pillar,C:/Users/Greg/Documents/R/win-library/3.5,1.3.1,NA,3.5.2
+pkgconfig,C:/Users/Greg/Documents/R/win-library/3.5,2.0.2,NA,3.5.2
+plogr,C:/Users/Greg/Documents/R/win-library/3.5,0.2.0,NA,3.5.2
+plyr,C:/Users/Greg/Documents/R/win-library/3.5,1.8.4,NA,3.5.2
+png,C:/Users/Greg/Documents/R/win-library/3.5,0.1-7,NA,3.5.2
+prettyunits,C:/Users/Greg/Documents/R/win-library/3.5,1.0.2,NA,3.5.2
+processx,C:/Users/Greg/Documents/R/win-library/3.5,3.2.1,NA,3.5.2
+progress,C:/Users/Greg/Documents/R/win-library/3.5,1.2.0,NA,3.5.2
+promises,C:/Users/Greg/Documents/R/win-library/3.5,1.0.1,NA,3.5.2
+ps,C:/Users/Greg/Documents/R/win-library/3.5,1.3.0,NA,3.5.2
+purrr,C:/Users/Greg/Documents/R/win-library/3.5,0.2.5,NA,3.5.2
+R6,C:/Users/Greg/Documents/R/win-library/3.5,2.3.0,NA,3.5.2
+raster,C:/Users/Greg/Documents/R/win-library/3.5,2.8-4,NA,3.5.2
+RColorBrewer,C:/Users/Greg/Documents/R/win-library/3.5,1.1-2,NA,3.5.2
+Rcpp,C:/Users/Greg/Documents/R/win-library/3.5,1.0.0,NA,3.5.2
+readr,C:/Users/Greg/Documents/R/win-library/3.5,1.3.1,NA,3.5.2
+readxl,C:/Users/Greg/Documents/R/win-library/3.5,1.2.0,NA,3.5.2
+rematch,C:/Users/Greg/Documents/R/win-library/3.5,1.0.1,NA,3.5.2
+reprex,C:/Users/Greg/Documents/R/win-library/3.5,0.2.1,NA,3.5.2
+reshape2,C:/Users/Greg/Documents/R/win-library/3.5,1.4.3,NA,3.5.2
+rlang,C:/Users/Greg/Documents/R/win-library/3.5,0.3.1,NA,3.5.2
+rmarkdown,C:/Users/Greg/Documents/R/win-library/3.5,1.11,NA,3.5.2
+rprojroot,C:/Users/Greg/Documents/R/win-library/3.5,1.3-2,NA,3.5.2
+rstudioapi,C:/Users/Greg/Documents/R/win-library/3.5,0.9.0,NA,3.5.2
+rvest,C:/Users/Greg/Documents/R/win-library/3.5,0.3.2,NA,3.5.2
+scales,C:/Users/Greg/Documents/R/win-library/3.5,1.0.0,NA,3.5.2
+selectr,C:/Users/Greg/Documents/R/win-library/3.5,0.4-1,NA,3.5.2
+shiny,C:/Users/Greg/Documents/R/win-library/3.5,1.2.0,NA,3.5.2
+shinydashboard,C:/Users/Greg/Documents/R/win-library/3.5,0.7.1,NA,3.5.2
+sourcetools,C:/Users/Greg/Documents/R/win-library/3.5,0.1.7,NA,3.5.2
+sp,C:/Users/Greg/Documents/R/win-library/3.5,1.3-1,NA,3.5.2
+stringi,C:/Users/Greg/Documents/R/win-library/3.5,1.2.4,NA,3.5.2
+stringr,C:/Users/Greg/Documents/R/win-library/3.5,1.3.1,NA,3.5.2
+tibble,C:/Users/Greg/Documents/R/win-library/3.5,1.4.2,NA,3.5.2
+tidyr,C:/Users/Greg/Documents/R/win-library/3.5,0.8.2,NA,3.5.2
+tidyselect,C:/Users/Greg/Documents/R/win-library/3.5,0.2.5,NA,3.5.2
+tidyverse,C:/Users/Greg/Documents/R/win-library/3.5,1.2.1,NA,3.5.2
+tinytex,C:/Users/Greg/Documents/R/win-library/3.5,0.10,NA,3.5.2
+usethis,C:/Users/Greg/Documents/R/win-library/3.5,1.4.0,NA,3.5.2
+utf8,C:/Users/Greg/Documents/R/win-library/3.5,1.1.4,NA,3.5.2
+viridis,C:/Users/Greg/Documents/R/win-library/3.5,0.5.1,NA,3.5.2
+viridisLite,C:/Users/Greg/Documents/R/win-library/3.5,0.3.0,NA,3.5.2
+whisker,C:/Users/Greg/Documents/R/win-library/3.5,0.3-2,NA,3.5.2
+withr,C:/Users/Greg/Documents/R/win-library/3.5,2.1.2,NA,3.5.2
+xfun,C:/Users/Greg/Documents/R/win-library/3.5,0.4,NA,3.5.2
+xml2,C:/Users/Greg/Documents/R/win-library/3.5,1.2.0,NA,3.5.2
+xtable,C:/Users/Greg/Documents/R/win-library/3.5,1.8-3,NA,3.5.2
+yaml,C:/Users/Greg/Documents/R/win-library/3.5,2.2.0,NA,3.5.2
+base,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+boot,C:/Program Files/R/R-3.5.2/library,1.3-20,recommended,3.5.2
+class,C:/Program Files/R/R-3.5.2/library,7.3-14,recommended,3.5.2
+cluster,C:/Program Files/R/R-3.5.2/library,2.0.7-1,recommended,3.5.2
+codetools,C:/Program Files/R/R-3.5.2/library,0.2-15,recommended,3.5.2
+compiler,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+datasets,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+foreign,C:/Program Files/R/R-3.5.2/library,0.8-71,recommended,3.5.2
+graphics,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+grDevices,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+grid,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+KernSmooth,C:/Program Files/R/R-3.5.2/library,2.23-15,recommended,3.5.2
+lattice,C:/Program Files/R/R-3.5.2/library,0.20-38,recommended,3.5.2
+MASS,C:/Program Files/R/R-3.5.2/library,7.3-51.1,recommended,3.5.2
+Matrix,C:/Program Files/R/R-3.5.2/library,1.2-15,recommended,3.5.2
+methods,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+mgcv,C:/Program Files/R/R-3.5.2/library,1.8-26,recommended,3.5.2
+nlme,C:/Program Files/R/R-3.5.2/library,3.1-137,recommended,3.5.2
+nnet,C:/Program Files/R/R-3.5.2/library,7.3-12,recommended,3.5.2
+parallel,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+rpart,C:/Program Files/R/R-3.5.2/library,4.1-13,recommended,3.5.2
+spatial,C:/Program Files/R/R-3.5.2/library,7.3-11,recommended,3.5.2
+splines,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+stats,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+stats4,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+survival,C:/Program Files/R/R-3.5.2/library,2.43-3,recommended,3.5.2
+tcltk,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+tools,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
+translations,C:/Program Files/R/R-3.5.2/library,3.5.2,NA,3.5.2
+utils,C:/Program Files/R/R-3.5.2/library,3.5.2,base,3.5.2
