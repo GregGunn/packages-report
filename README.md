@@ -7,4 +7,4 @@ This is a test, I repeat this is only a test
 A second edit from online, in the browswer
 
 
-THis all makes perfect sense right now.
+This all makes perfect sense right now.
