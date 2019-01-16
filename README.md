@@ -17,6 +17,8 @@ a b c c d e f g h i j k l m n o p
 
 Local Changes, they are awesoem
 
-
+<<<<<<< HEAD
+Here is a tougher Change, this time to the same file
+=======
 Here is a tougher Change, this time to the same file kind of the same file not really idk.
-
+>>>>>>> e014595e88cd9c9028d580f64b2b9f0d0f26fc91
